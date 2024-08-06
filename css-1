@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Sniglet';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/sniglet/v17/cIf9MaFLtkE3UjaJ9C6hZA.ttf) format('truetype');
+}
